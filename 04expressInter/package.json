@@ -1,0 +1,14 @@
+{
+  "name": "expressinter",
+  "version": "1.0.0",
+  "description": "express intermediate topics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ranjith",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
